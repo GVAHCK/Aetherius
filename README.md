@@ -12,17 +12,6 @@ It helps users design trips end-to-end: itinerary building, city/activity planni
 
 ---
 
-## 📸 Project Demo Screenshot
-
-> *(Replace the below placeholder with your actual screenshot image)*
-
-![Traveloop Live Screenshot](./screenshot.png)
-
-OR (if uploading externally):
-
-![Traveloop Screenshot](https://your-image-link.com)
-
----
 
 ## ✨ Project Highlights
 
